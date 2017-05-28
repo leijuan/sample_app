@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+20170527:10.3.2 示例
+http://guides.ruby-china.org/testing.html
+3.2.2 YAML
